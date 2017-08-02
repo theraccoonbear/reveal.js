@@ -1,0 +1,4 @@
+#!/usr/bin/env bash
+
+echo "Starting presentation...";
+docker-compose -f docker-compose.yml up -d;
