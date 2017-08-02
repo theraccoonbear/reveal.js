@@ -1,3 +1,3 @@
 # Cryptocurrencies
-
-Cryptocurrencies are currencies secured with cryptography.
+### An Earthling Interactive Tech Talk
+#### By Don Smith & Dan Stevens
