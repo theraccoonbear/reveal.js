@@ -26,7 +26,7 @@
 	</tr>
 	<tr>
 		<td>
-			Jaques
+			Jacques
 		</td>
 		<td>
 			1.8 BTC

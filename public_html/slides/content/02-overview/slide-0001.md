@@ -11,7 +11,7 @@
 		Economic Policy <em class="fragment" data-fragment-index="31"> - central banks, inflation, etc.</em>
 	</li>
 	<li class="fragment" data-fragment-index="40">
-		Efficiency/Economy <em class="fragment" data-fragment-index="41"> - cheaper economic activity</em>
+		Efficiency/Economy <em class="fragment" data-fragment-index="41"> - cheaper/faster economic activity</em>
 	</li>
 	<li class="fragment" data-fragment-index="50">
 		Beyond Currency <em class="fragment" data-fragment-index="51"> - building on blockchain</em>
