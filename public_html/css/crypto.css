@@ -1,0 +1,7 @@
+.reveal .slides section .fragment.highlight-greyed {
+  opacity: 1;
+  visibility: inherit; }
+
+.reveal .slides section .fragment.highlight-greyed.visible {
+  color: #555555; 
+}
