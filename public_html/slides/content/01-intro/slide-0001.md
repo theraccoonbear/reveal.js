@@ -1,3 +1,4 @@
 ### What are cryptocurrencies?
-<span class="fragment">Crypto?</span>
-<span class="fragment">Currency?</span>
+<h4 class="fragment">Crypto?</h4><br>
+<h4 class="fragment">Currency?</h4><br>
+<img class="fragment" data-src="img/baaa.gif">

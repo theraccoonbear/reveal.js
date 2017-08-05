@@ -12,4 +12,4 @@
 	</code>
 </pre>
 
-<p class="fragment">This is an example using JSON.  Bitcoin represents blocks using DER ASN.1</p>
+<small class="fragment">These examples use JSON.  Bitcoin represents blocks using DER ASN.1</small>

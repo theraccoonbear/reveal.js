@@ -4,8 +4,8 @@
 	<code>
 	{
 		"transactions": [ ... ],
-		"prevHash": "7e1ddfc85ae45a95330209c0834c59876011aa587be693354cbd1f40bf637fcd",
-		"hash": "35bafb1ce99aef3ab068afbaabae8f21fd9b9f02d3a9442e364fa92c0b3eeef0",
+		"prevHash": "0000dfc85ae45a95330209c0834c59876011aa587be693354cbd1f40bf637fcd",
+		"hash": "0000fb1ce99aef3ab068afbaabae8f21fd9b9f02d3a9442e364fa92c0b3eeef0",
 		"nonce": "123456"
 	}
 	</code>

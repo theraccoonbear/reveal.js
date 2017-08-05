@@ -14,7 +14,10 @@
 		Efficiency/Economy <em class="fragment" data-fragment-index="41"> - cheaper/faster activity</em>
 	</li>
 	<li class="fragment" data-fragment-index="50">
-		Beyond Currency <em class="fragment" data-fragment-index="51"> - building on blockchain</em>
+		Stability <em class="fragment" data-fragment-index="51"> - against tumultuous fiat currency</em>
+	</li>
+	<li class="fragment" data-fragment-index="60">
+		Beyond Currency <em class="fragment" data-fragment-index="61"> - building on blockchain</em>
 	</li>
 </ul>
 
