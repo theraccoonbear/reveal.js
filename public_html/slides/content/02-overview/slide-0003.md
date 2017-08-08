@@ -1,4 +1,4 @@
-### Accounts have owners and balances
+### Accounts have owners<br>and balances
 <table class="fragment">
 	<tr>
 		<th>

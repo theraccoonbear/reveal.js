@@ -1,4 +1,6 @@
 # Blockchain
-## Basically just a ledger
-* Accounts
-* Entries
+### Basically just a ledger
+<ul>
+	<li class="fragment">Accounts</li>
+	<li class="fragment">Entries</li>
+</ul>
