@@ -1,5 +1,5 @@
 ### Entries record transactions
-<table class="fragment" data-fragment-index="21">
+<table class="fragment">
 	<tr>
 		<th>
 			From
@@ -34,3 +34,5 @@
 		</td>
 	</tr>
 </table>
+
+<small class="fragment">A transaction, transferring funds from one account (a public key) to another must<br>be signed with the corresponding private key for the input account.</small>

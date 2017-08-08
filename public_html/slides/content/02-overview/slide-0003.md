@@ -2,7 +2,7 @@
 <table class="fragment">
 	<tr>
 		<th>
-			Owner
+			Owner&#42;
 		</th>
 		<th>
 			Balance
@@ -33,3 +33,4 @@
 		</td>
 	</tr>
 </table>
+<small class="fragment">&#42; in actual practice, accounts are not common names, but are public keys like:<br>1EVXp8ViANXnQuxpMAtiyyoP7yqsD9vA1d<br>You "own" that account if you control the corresponding private key.</small>

@@ -1,6 +1,12 @@
 # Blockchain
 ### Basically just a ledger
-<ul>
-	<li class="fragment">Accounts</li>
-	<li class="fragment">Entries</li>
-</ul>
+<table>
+	<tr>
+		<td>
+			<h4 class="fragment">Accounts</h4>
+		</td>
+		<td>
+			<h4 class="fragment">Entries</h4>
+		</td>
+	</tr>
+</table>
