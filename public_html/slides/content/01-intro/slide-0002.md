@@ -13,7 +13,7 @@
 	</li>
 	<li class="fragment" data-fragment-index="30">
 		<span class="fragment highlight-green" data-fragment-index="40">Hashing</span>
-		<span class="fragment" data-fragment-index="31"> - Detect Tampering</span>
+		<span class="fragment" data-fragment-index="31"> - Detect Tampering/Corruption</span>
 	</li>
 </ul>
 
