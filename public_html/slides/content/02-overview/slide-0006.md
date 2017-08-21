@@ -10,4 +10,4 @@
 	}
 	</code>
 </pre>
-<small class="fragment">Perfectly clear, no?</small>
+<small class="fragment">This is basically how a <a href="https://en.wikipedia.org/wiki/Merkle_tree" target="_blank">Merkle Tree</a> works</small>

@@ -5,3 +5,7 @@
 .reveal .slides section .fragment.highlight-greyed.visible {
   color: #555555; 
 }
+
+.smaller {
+  font-size: 65% !important; 
+}
