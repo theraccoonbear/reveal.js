@@ -1,5 +1,5 @@
-## Bitcoin: BIPs
-#### Make Bitcoing Great Again!
+## Bitcoin: BIP
+#### Make Bitcoin Great Again!
 <ul>
 	<li class="fragment">BIP = Bitcoin Improvement Proposals</li>
 	<li class="fragment">Similar to the IETF's RFCs (Request For Comments)</li>
