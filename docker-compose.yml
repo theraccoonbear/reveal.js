@@ -2,7 +2,7 @@ version: '2'
 
 services:
   apache:
-    container_name: revaljs
+    container_name: revealjs
     image: 'bitnami/apache:latest'
     ports:
       - '80:80'
