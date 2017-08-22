@@ -1,4 +1,4 @@
-# Differing Goals
+## Differing Goals
 ### A variety of currencies for a variety of purposes
 <ul>
 	<li class="fragment" data-fragment-index="10">
@@ -20,4 +20,3 @@
 		Beyond Currency <em class="fragment" data-fragment-index="61"> - building on blockchain</em>
 	</li>
 </ul>
-
