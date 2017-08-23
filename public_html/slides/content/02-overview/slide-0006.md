@@ -1,6 +1,6 @@
 ## And The "Chain"?
-<h4 class="fragment">A series of blocks, linked by their hashes</h4>
-<pre class="fragment">
+<h4 class="fragment" data-fragment-index="1">A series of blocks, linked by their hashes</h4>
+<pre class="fragment" data-fragment-index="2">
 	<code>
 	{
 		"transactions": [ ... ],
@@ -10,4 +10,4 @@
 	}
 	</code>
 </pre>
-<small class="fragment">This is basically how a <a href="https://en.wikipedia.org/wiki/Merkle_tree" target="_blank">Merkle Tree</a> works</small>
+<small class="fragment" data-fragment-index="2">This is basically how a <a href="https://en.wikipedia.org/wiki/Merkle_tree" target="_blank" rel="noopener noreferrer">Merkle Tree</a> works</small>

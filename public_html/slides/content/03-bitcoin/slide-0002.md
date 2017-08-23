@@ -1,11 +1,8 @@
-## Bitcoin: Overview
-
-<ul>
-	<li class="fragment">First decentralized cryptocurrency (2009)</li>
-	<li class="fragment">Based on the work of Wei Dai, "b-money", 1998 and Nick Szabo, "Bit Gold", 1998</li>
-	<li class="fragment">Uses SHA-256 for POW (CPU-bound)</li>
-	<li class="fragment">Block time, target: 10 minutes, actual: ~8 minutes</li>
-	<li class="fragment">Difficulty readjust: 2016 blocks (~2 weeks)</li>
-	<li class="fragment">Current hashrate: ~6M TH/s (6,000,000,000,000,000,000 H/s*)</li>
-	<li class="fragment">"Market Cap": > $60 billion</li>
-</ul>
+<h2>Bitcoin: Genesis Block</h2>
+<img data-src="/img/genesis-block-newspaper-bitcoin.jpg" class="stretch">
+<p class="fragment">
+	<small>
+		&ldquo;The Times 03/Jan/2009 Chancellor on brink of second bailout for banks&rdquo;<br/>
+		&mdash; message included in <a href="https://blockchain.info/block-index/14849" target="_blank" rel="noopener noreferrer">Bitcoin genesis block</a>
+	</small>
+</p>

@@ -29,3 +29,26 @@
   width: 10vw;
   height: auto;
 }
+
+table.layout td {
+  border: 0px !important;
+}
+
+.square-images img {
+  width: 30vh !important;
+  height: 30vh !important;
+}
+
+.centered {
+  text-align: center !important;
+}
+
+.head3 {
+  font-size: 1.3em !important;
+  font-weight: 600 !important;
+}
+
+.preformatted {
+    font-family: monospace !important;
+    white-space: pre !important;
+}

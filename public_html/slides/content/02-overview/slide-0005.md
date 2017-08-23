@@ -1,6 +1,6 @@
 ## So "Blocks" Are?
-<h4 class="fragment">Just a bundle of transactions</h4>
-<pre class="fragment">
+<h4 class="fragment" data-fragment-index="1">Just a bundle of transactions</h4>
+<pre class="fragment" data-fragment-index="2">
 	<code>
 	{
 		"transactions": [
@@ -12,4 +12,4 @@
 	</code>
 </pre>
 
-<small class="fragment">These examples use JSON.  Bitcoin represents blocks using DER ASN.1</small>
+<small class="fragment" data-fragment-index="2">These examples use JSON.  Bitcoin represents blocks using DER ASN.1</small>
