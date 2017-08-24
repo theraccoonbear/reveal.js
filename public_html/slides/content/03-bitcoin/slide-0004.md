@@ -3,10 +3,11 @@
 <ul>
 	<li class="fragment">First decentralized cryptocurrency (2009)</li>
 	<li class="fragment">Based on the work of Wei Dai, "b-money", 1998 and Nick Szabo, "Bit Gold", 1998</li>
-	<li class="fragment">Uses SHA-256 for POW (CPU-bound)</li>
+	<li class="fragment">Uses <a href="https://en.wikipedia.org/wiki/SHA-2" target="_blank" rel="noopener noreferrer">SHA-256</a> for POW (CPU-bound)</li>
 	<li class="fragment">Target block time: 10 minutes (actual: ~8 minutes)</li>
 	<li class="fragment">Difficulty readjust: 2,016 blocks (~2 weeks)</li>
 	<li class="fragment">Block award <a href="http://www.thehalvening.com/index.php?lang=en_US" target="_blank" rel="noopener noreferrer">halfing</a>: 210,000 blocks (~4 years)</li>
+	<li class="fragment">Total supply: 21 million BTC (in 2140)</li>
 	<li class="fragment">Current hashrate: ~6M TH/s (6,000,000,000,000,000,000 H/s*)</li>
 	<li class="fragment">"Market Cap": > $60 billion</li>
 </ul>
