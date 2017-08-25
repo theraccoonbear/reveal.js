@@ -1,5 +1,5 @@
 ## Differing Goals
-### A variety of currencies for a variety of purposes
+<h4>A variety of currencies for<br/>a variety of purposes</h4>
 <ul>
 	<li class="fragment" data-fragment-index="10">
 		Decentralization <em class="fragment" data-fragment-index="11"> - no single point of failure</em>

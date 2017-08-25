@@ -5,7 +5,7 @@
 		<strong>SegWit</strong><span class="fragment"> - segregated witness removes cryptographic signatures from the actual block data and bumps max. block size to 2 MB.  Signatures account for ~50% of the block data</span>
 		<ul>
 			<li class="fragment">BIP 91: signaling for SegWit (locked July 2017)</li>
-			<li class="fragment">BIP 141: the actual SegWit proposal </li>
+			<li class="fragment">BIP 141: the actual SegWit proposal (activated August 2017)</li>
 			<li class="fragment">Also fixes a bug: transaction maleability</li>
 		</ul>
 	</li>

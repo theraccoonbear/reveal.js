@@ -52,3 +52,23 @@ table.layout td {
     font-family: monospace !important;
     white-space: pre !important;
 }
+
+.comic {
+  font-family: "Comic Sans MS" !important;
+}
+
+.red {
+  color: #f00;
+}
+
+.green {
+  color: #090;
+}
+
+.blue {
+  color: #5D5DFF;
+}
+
+.yellow {
+  color: #cc0;
+}
