@@ -1,4 +1,4 @@
-# Proof of Work
+# Proof-Of-Work
 <h4 class="fragment">Find the solution to a cryptographic puzzle</h4>
 
 <ul>

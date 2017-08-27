@@ -2,6 +2,7 @@
 
 <ul class="smaller">
 	<li class="fragment">Released Oct. 2011 by Charlie Lee (former Googler)</li>
+	<li class="fragment">Was based on Bitcoin's code</li>
 	<li class="fragment">Litecoin is to Betamax as Bitcoin is to VHS</li>
 	<li class="fragment">Uses <a href="https://en.wikipedia.org/wiki/Scrypt" target="_blank" rel="noopener noreferrer">scrypt</a> for POW (memory-bound; KDF)</li>
 	<li class="fragment">Target block time: 2.5 minutes (4x faster than BTC)</li>

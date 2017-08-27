@@ -49,7 +49,7 @@ table.layout td {
 }
 
 .preformatted {
-    font-family: monospace !important;
+    font-family: "Consolas", "Courier New", monospace !important;
     white-space: pre !important;
 }
 
@@ -71,4 +71,16 @@ table.layout td {
 
 .yellow {
   color: #cc0;
+}
+
+.tighten {
+  line-height: inherit !important;
+}
+
+.cold {
+  color: #5D5DFF;
+}
+
+.hot {
+  color: #ff5d5d;
 }

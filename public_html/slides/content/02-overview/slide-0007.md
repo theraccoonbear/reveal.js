@@ -4,5 +4,5 @@
 <ul>
 	<li class="fragment">Like Visa, Mastercard, or your bank</li>
 	<li class="fragment">They bundle transactions into blocks</li>
-	<li class="fragment">They do the "Proof of Work" to secure the chain</li>
+	<li class="fragment">They do the proof-of-work to secure the chain</li>
 </ul>

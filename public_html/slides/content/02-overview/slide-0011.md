@@ -1,6 +1,6 @@
 ## Network Difficulty Example
-<div class="fragment current-visible">
-	Let's say it's early in our blockchain's existence. There are few miners, so difficulty is low.  Let's say we want 4 zeros.
-	Let's just call the transactional + metadata in our block "B", and our nonce "n".  We'll try different nonces, to hit our target,
-	calculating hash(B + n).
+<div>
+	Let's say it's early in our blockchain's existence. There are few miners, so we'll say target difficulty is 4 zeros.
+	Call the transactional + metadata in our block <em>B</em>, our nonce <em>n</em>, and the hash function &fnof;.  We'll try different nonces, to hit our target,
+	calculating<br>&fnof;<em>(B + n)</em>
 </div>

@@ -4,7 +4,7 @@
 			<img data-src="img/globe.gif" class="stretch">
 		</td>
 		<td rowspan="2" class="centered head3">
-			Cryptocurrency<br>Motivations<br>&amp;<br>Implementations
+			Cryptocurrency<br>Motivations &amp;<br>Implementations
 		</td>
 		<td>
 			<img data-src="img/janet-yellen.png" class="stretch">

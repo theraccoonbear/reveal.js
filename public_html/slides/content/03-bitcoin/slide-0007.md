@@ -6,7 +6,6 @@
 		<ul>
 			<li class="fragment">BIP 91: signaling for SegWit (locked July 2017)</li>
 			<li class="fragment">BIP 141: the actual SegWit proposal (activated August 2017)</li>
-			<li class="fragment">Also fixes a bug: transaction maleability</li>
 		</ul>
 	</li>
 	<li class="fragment smaller">
@@ -14,7 +13,7 @@
 		<ul>
 			<li class="fragment">A deliberate hard fork to a new currency</li>
 			<li class="fragment">Not part of a BIP</li>
-			<li class="fragment">An overtly political change amidst otherwise mundane tech upgrades</li>
+			<li class="fragment">Is Bitcoin our cash or our gold?</li>
 		</ul>
 	</li>
 	<li class="fragment smaller">
