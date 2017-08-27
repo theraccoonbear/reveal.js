@@ -1,19 +1,22 @@
-# Cryptography
-<h3>Protocols for<br>securing communications</h3>
-<ul>
+# Overview
+### We'll Be Discussing
+<ol>
 	<li class="fragment" data-fragment-index="10">
-		<span class="fragment highlight-greyed" data-fragment-index="40">
-			<strong>Encrypting / Decrypting</strong>
-			<span class="fragment" data-fragment-index="11"> - <em>Control Access</em><br><small>Think: a safe deposit box</small></span>
-		</span>
+		Cryptocurrency Definition
 	</li>
 	<li class="fragment" data-fragment-index="20">
-		<strong class="fragment highlight-green" data-fragment-index="40">Signing</strong>
-		<span class="fragment" data-fragment-index="21"> - <em>Determine Authorship</em><br><small>Think: a signature on a contract</small></span>
+		Blockchain &amp; Mining
 	</li>
 	<li class="fragment" data-fragment-index="30">
-		<strong class="fragment highlight-green" data-fragment-index="40">Hashing</strong>
-		<span class="fragment" data-fragment-index="31"> - <em>Detect Tampering/Corruption</em><br><small>Think: a tamper-proof jar seal</small></span>
+		Bitcoin Details
 	</li>
-</ul>
-
+	<li class="fragment" data-fragment-index="40">
+		Alt-Coins &amp; Other Cryptocurrencies
+	</li>
+	<li class="fragment" data-fragment-index="50">
+		Misconceptions &amp; Real Concerns
+	</li>
+	<li class="fragment" data-fragment-index="60">
+		Using Bitcoin
+	</li>
+</ol>

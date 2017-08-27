@@ -1,4 +1,4 @@
-### What are cryptocurrencies?
-<h4 class="fragment">Crypto?</h4><br>
-<h4 class="fragment">Currency?</h4><br>
-<img class="fragment" data-src="img/baaa.gif">
+<h1>To The Moon!</h1>
+<h5>An Earthling Interactive<br/>Cryptocurrency Tech Talk</h5>
+<small>Don Smith</small>
+<img data-src="/img/logo-splash.png" class="splash">
