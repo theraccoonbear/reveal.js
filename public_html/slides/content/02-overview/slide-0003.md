@@ -34,7 +34,7 @@
 			</td>
 		</tr>
 	</table>
-	<span class="smaller">&#42; in actual practice, accounts are not common names, but are public keys like:<br>
-	<span class="preformatted">1EVXp8ViANXnQuxpMAtiyyoP7yqsD9vA1d</span><br>
-	You "own" that account if you control the corresponding private key.</span>
+	<span class="smaller">&#42; in actual practice, accounts are not common names, but are <span class="green">public keys</span> like:<br>
+	<span class="preformatted cold">1EVXp8ViANXnQuxpMAtiyyoP7yqsD9vA1d</span><br>
+	You "own" that account if you control the corresponding <span class="red">private key</span>.</span>
 </div>

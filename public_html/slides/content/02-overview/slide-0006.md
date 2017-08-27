@@ -10,4 +10,4 @@
 	}
 	</code>
 </pre>
-<small class="fragment" data-fragment-index="2">This is basically how a <a href="https://en.wikipedia.org/wiki/Merkle_tree" target="_blank" rel="noopener noreferrer">Merkle Tree</a> works</small>
+<small class="fragment" data-fragment-index="2">How a <a href="https://en.wikipedia.org/wiki/Merkle_tree" target="_blank" rel="noopener noreferrer">Merkle Tree</a> works</small>

@@ -12,4 +12,4 @@
 	</code>
 </pre>
 
-<small class="fragment" data-fragment-index="2">These examples use JSON.  Bitcoin represents blocks using DER ASN.1</small>
+<small class="fragment" data-fragment-index="2">These examples use JSON.  Bitcoin represents blocks using <a href="https://en.wikipedia.org/wiki/Abstract_Syntax_Notation_One#Example_encoded_in_DER" target="_blank" rel="noopener noreferrer">DER ASN.1</a></small>
