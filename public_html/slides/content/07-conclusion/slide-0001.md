@@ -9,4 +9,5 @@
 	<li><a href="https://github.com/bitcoinjs/bitcoinjs-lib" target="_blank" rel="noopener noreferrer">BitcoinJS</a> - An npm-installable nodejs library for working with Bitcoin</li>
 	<li><a href="https://bitcoincharts.com/charts" target="_blank" rel="noopener noreferrer">Bitcoin Charts</a> - Historic data covering many exchanges</li>
 	<li><a href="https://live.blockcypher.com/" target="_blank" rel="noopener noreferrer">BlockCypher</a> - View and explore the block chain + transaction API</li>
+	<li><a href="https://blockchain.info/" target="_blank" rel="noopener noreferrer">blockchain.info</a> - View and explore the block chain + transaction API</li>
 </ul>
