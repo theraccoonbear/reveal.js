@@ -35,6 +35,6 @@
 		</tr>
 	</table>
 	<span class="smaller">&#42; in actual practice, accounts are not common names, but are <span class="green">public keys</span> like:<br>
-	<span class="preformatted cold">1EVXp8ViANXnQuxpMAtiyyoP7yqsD9vA1d</span><br>
+	<a href="https://live.blockcypher.com/btc/address/1KRfUyGdGi5uiueQzfYZq9orbPgmedRNC3/" class="preformatted" target="_blank" rel="noopener noreferrer">1KRfUyGdGi5uiueQzfYZq9orbPgmedRNC3</a><br>
 	You "own" that account if you control the corresponding <span class="red">private key</span>.</span>
 </div>
