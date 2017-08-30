@@ -9,7 +9,7 @@
 		</ul>
 	</li>
 	<li class="fragment smaller">
-		<strong>Bitcoin Cash</strong><span class="fragment"> - increase the maximum block size to 8MB and incorporate SegWit.</span>
+		<strong>Bitcoin Cash</strong><span class="fragment"> - increase the maximum block size to 8MB.</span>
 		<ul>
 			<li class="fragment">A deliberate hard fork to a new currency</li>
 			<li class="fragment">Not part of a BIP</li>
