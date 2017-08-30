@@ -9,5 +9,5 @@
 	<li class="fragment">Block award <a href="http://www.thehalvening.com/index.php?lang=en_US" target="_blank" rel="noopener noreferrer">halfing</a>: 210,000 blocks (~4 years)</li>
 	<li class="fragment">Total supply: 21 million BTC (in 2140)</li>
 	<li class="fragment">Current hashrate: ~4.5M TH/s (4,500,000,000,000,000,000 H/s*)</li>
-	<li class="fragment">"Market Cap": > $70 billion</li>
+	<li class="fragment">"Market Cap": > $75 billion</li>
 </ul>

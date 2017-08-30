@@ -10,5 +10,5 @@
 	<li class="fragment">1 MB block size (same as BTC)</li>
 	<li class="fragment">Already has SegWit &amp; Lightning Network support</li>
 	<li class="fragment">Total supply: 84 million LTC (in 2050)</li>
-	<li class="fragment">"Market Cap": ~$2.5 billion</li>
+	<li class="fragment">"Market Cap": ~$3.3 billion</li>
 </ul>
