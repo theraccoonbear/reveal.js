@@ -1,5 +1,5 @@
 <h2>Bitcoin: Genesis Block</h2>
-<img data-src="/img/genesis-block-newspaper-bitcoin.jpg" class="stretch">
+<img data-src="img/genesis-block-newspaper-bitcoin.jpg" class="stretch">
 <p class="fragment">
 	<small>
 		&ldquo;The Times 03/Jan/2009 Chancellor on brink of second bailout for banks&rdquo;<br/>
